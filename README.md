@@ -13,5 +13,5 @@ Built for practicing function overloading and return values.
 - Press `F5` to run
 
 ## Tech stack
-- .NET 6 / C#
+- .NET 8 / C#
 - Visual Studio 2022
